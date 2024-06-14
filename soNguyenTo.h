@@ -27,11 +27,3 @@ void TimUoc(int N){
         }    
     }
 }
-int main(){
-    int N;
-    cout << "Moi nhap N: ";
-    cin >> N;
-    TimUoc(N);
-    return 0;
-
-    }
